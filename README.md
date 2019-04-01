@@ -1,3 +1,5 @@
+Moved to https://gitlab.com/NicolaivdSmagt/favorita-forecast
+------------------------------------------------------------
 # Favorita Forecast
 
 Amazon Forecast is a fully managed deep-learning service for time-series forecasting. By providing Amazon Forecast with historical time-series data, you can predict future points in the series. Time-series forecasting is useful in multiple domains, including retail, financial planning, supply chain, and healthcare. 
